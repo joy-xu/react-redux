@@ -1,5 +1,5 @@
 {
-  "name": "redux-basic",
+  "name": "redux-smart-dumb",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
